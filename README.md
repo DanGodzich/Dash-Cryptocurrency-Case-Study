@@ -13,13 +13,13 @@ of Bitcoin.
 
 |Market Capitalization|Current Price|
 |----------|-------------|
-|$ 2.9 Bil|$ 290|
+|$ 3,244,609,659|$ 322.29|
 
 |Circulating Supply|Rank #|
 |------------------|------|
-|10 Mil +|50|
+|10,079,725|51|
 
-> *Note: These numbers are at the time of this writing which is April 14, 2021.*
+> *Note: These numbers are at the time of this writing which is April 15, 2021.*
 
 
 The lead investor during the initial coin offering
@@ -33,21 +33,23 @@ that works for the network and is the main developer.
 Dash Core Group, upon approval of the network, is funded directly from the Dash blockchain.
 
 The competitors for Dash are the [major](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)
- Cyptocurrencies such as Bitcoin, Ethereum, Litecoin and Cardano. Dash is attempting otflank these larger cryptocurrencies by offering faster transaction times and a friendlier user experience.
+ Cyptocurrencies such as Bitcoin, Ethereum, Litecoin and Cardano. Dash is attempting outflank these larger cryptocurrencies by offering faster transaction times and a friendlier user experience.
 
 ## Technology
 
-Dash is not based upon the "Proof of Work" concept used by such crptocurencies as Bitcoin and Ethereum. Proof of Work means that a majority of miners have to approve a transaction. The miners are then rewarded with a postion of coin for their work. As the crypto networks grow larger this slows down tranaction speeds.
+Dash is not based upon the "Proof of Work" concept used by such cryptocurrencies as Bitcoin and Ethereum. Proof of Work means that a majority of miners have to approve a transaction. The miners are then rewarded with a portion of coin for their work. As the crypto networks grow larger this slows down transaction speeds.
 
-Dash is based upon "Proof of Stake" technology. While Dash does have miners, transactions are approved by a two-thirds majority of "Masternodes." [Masternodes](https://www.dash.org/masternodes/#:~:text=Masternodes%20are%20powerful%20servers%20backed,and%20governance%20on%20the%20blockchain.&text=Masternodes%20must%20be%20backed%20by,they%20provide%20to%20the%20network) are servers that hold 1000 Dash as collateral and perfom services for the network. (The collateral, or "stake" is where the Proof of Stake name comes from.)
+Dash is based upon Masternode technology. While Dash does have miners, transactions are approved by a two-thirds majority of "Masternodes." [Masternodes](https://www.dash.org/masternodes/#:~:text=Masternodes%20are%20powerful%20servers%20backed,and%20governance%20on%20the%20blockchain.&text=Masternodes%20must%20be%20backed%20by,they%20provide%20to%20the%20network) are servers that hold 1000 Dash as collateral and perfom services for the network. 
 
 The Masternodes are rewarded for their services with regular payments. Masternodes also having voting rights to help decide how 10% of block reward funds are awarded each month. Those awards are used to fund community projects supporting the Dash network. 
 
+Cardano also uses Masternodes and Ethereum is slated to roll out the technology sometime in 2021.
+
 The principle developer of the Dash ecosystem is the Dash Core Group (DCG), Inc, a Scottsdale, AZ company. The CEO of Dash Core Group is [Ryan Taylor](https://www.linkedin.com/in/ryan-taylor-dash/). Taylor previously worked as an advisor to private equity and hedge funds in New York City. Prior to that Taylor was an Associate Principle at McKinsey and Company.
 
-DCG has released Dash Platform v0.17 to testnet. This is a test of what is to be a release of DashPay down the road. DashPay will be a platform on both Android and IOS designed to compete with more centralized services such as Venmo, Sqaure, Apple Pay and even credit cards. 
+DCG has [released](https://www.dash.org/2020/12/31/dash-core-group-dcg-is/) Dash Platform v0.17 to testnet. This is a test of what is to be a release of DashPay down the road. DashPay will be a platform on both Android and IOS designed to compete with more centralized services such as Venmo, Sqaure, Apple Pay and even credit cards. 
 
-Dash's Masternode technology allows transactions to process in less than one second, much faster than the ten minutes rquired by Bitcoin, for example. That will be attractive to individuals. Dash is also able to process the transaction for much smaller fees than the centralized services mantioned above. That will be attractive to merchants. The DashPay App, once released, will place this ability in the hands of everyday individuals and businesses in a simple format that is easy to use. 
+Dash's Masternode technology allows transactions to process in less than one second, much faster than the ten minutes rquired by Bitcoin, for example. That will be attractive to individuals. Dash is also able to process the transaction for much smaller fees than the centralized services mantioned above. That will be attractive to merchants. The DashPay App, once released, will place this ability in the hands of everyday individuals and businesses in a format that is easy to use. 
 
 Dash has over 155,000 merchants that accept the Dash currency as payment. In Latin America, fast food vendors such as Church's Chicken and Burger King already accept Dash for payment. 
 
@@ -57,13 +59,13 @@ On December 18, 2020, the U.S, Financial Crimes Enforcement Network (FinCEN) iss
 
 In that proposed rule, FinCEN proposed cryptocurrency exchanges would have to keep records of Crypto Wallet transaction above $3000. For amounts of $10,000 or more the exchanges would have to report the transaction to FinCEN.
 
-Most of the crypto currency domain is pushing back on the proposed rule change as unworkable. But that is not the main problem coming from FinCEN for Dash. 
+Most of the cryptocurrency domain is pushing back on the proposed rule change as unworkable. But that is not the main problem coming from FinCEN for Dash. 
 
-As part of the proposed rule change, FinCEN had a section addressing what they called Anonymity Enhanced Crptocurrencies (AEC). They gave as examples the Crptocurrencies, monero, zcash and Dash.
+As part of the proposed rule change, FinCEN had a section addressing what they called Anonymity Enhanced Crptocurrencies (AEC). They gave as examples the Cryptocurrencies, Monero, Zcash and Dash.
 
-Two weeks later, the crypto currency exchange [Bittrex](https://steemitimages.com/640x0/http://www.cryptalnews.com/wp-content/uploads/2018/08/DASHLOGO.png) announced they would be delisting monero, zcash and Dash from their exchange. While no reason was given, it seems to be a reaction to the FinCEN referencing of them as AECs or "privacy coins."
+Two weeks later, the crypto currency exchange [Bittrex](https://steemitimages.com/640x0/http://www.cryptalnews.com/wp-content/uploads/2018/08/DASHLOGO.png) announced they would be delisting Monero, Zcash and Dash from their exchange. While no reason was given, it seems to be a reaction to the FinCEN referencing of them as AECs or "privacy coins."
 
-Dash promptly issued press releases and and tweets disputing the claim. Dash contends that it's PrivateSend utility is no different than similar utilities used by Bitcoin and Litecoin, which are not considered AECs. 
+Dash promptly issued press releases and tweets disputing the claim. Dash contends that it's PrivateSend utility is no different than similar utilities used by Bitcoin and Litecoin, which are not considered AECs. 
 
 At the time of this writing, Dash is trying to plead their case and be relisted on Bittrex. 
 
@@ -79,7 +81,7 @@ Dash appears to be suffering from a perception problem that comes from the early
 
 That was a true marketing mistake. Darkcoin sounds like something Darth Vader or Thanos would have in their wallet. 
 
-The eventual goal of Dash appears to be a competitor of Venmo, Square, and even Mastercard and Visa. The latter three use traditional advertising, including paid TV and Radio aspots to help promote their financial service product.
+The eventual goal of Dash appears to be a competitor of Venmo, Square, and even Mastercard and Visa. The latter three use traditional advertising, including paid TV and radio spots to help promote their financial service product.
 
 The name was changed to Dash, which in a [video](https://www.dash.org/2021/02/03/ensuring-regulatory/) Dash Core Group CEO explains was a "portmanteau"of Digital and Cash.
 
