@@ -57,7 +57,7 @@ Dash has over 155,000 merchants that accept the Dash currency as payment. In Lat
 
 On December 18, 2020, the U.S, Financial Crimes Enforcement Network (FinCEN) issued new proposed rules regarding crypto currencies. FinCEN is a division of the US Department of the Treasury that was formed in 1990 as part of the Bank Secrecy Act, a measure to combat money laundering by terrorist and criminal organizations. 
 
-In that proposed rule, FinCEN proposed cryptocurrency exchanges would have to keep records of Crypto Wallet transaction above $3000. For amounts of $10,000 or more the exchanges would have to report the transaction to FinCEN.
+In that [proposed](https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-rule-aimed-closing-anti-money-laundering) rule, FinCEN wants cryptocurrency exchanges to keep records of Crypto Wallet transaction above $3000. For amounts of $10,000 or more the exchanges would have to report the transaction to FinCEN.
 
 Most of the cryptocurrency domain is pushing back on the proposed rule change as unworkable. But that is not the main problem coming from FinCEN for Dash. 
 
@@ -65,7 +65,7 @@ As part of the proposed rule change, FinCEN had a section addressing what they c
 
 Two weeks later, the crypto currency exchange [Bittrex](https://steemitimages.com/640x0/http://www.cryptalnews.com/wp-content/uploads/2018/08/DASHLOGO.png) announced they would be delisting Monero, Zcash and Dash from their exchange. While no reason was given, it seems to be a reaction to the FinCEN referencing of them as AECs or "privacy coins."
 
-Dash promptly issued press releases and tweets disputing the claim. Dash contends that it's PrivateSend utility is no different than similar utilities used by Bitcoin and Litecoin, which are not considered AECs. 
+Dash promptly issued press releases and tweets disputing the claim. Dash contends that its' PrivateSend utility is no different than similar utilities used by Bitcoin and Litecoin, which are not considered AECs. 
 
 At the time of this writing, Dash is trying to plead their case and be relisted on Bittrex. 
 
@@ -85,9 +85,9 @@ The eventual goal of Dash appears to be a competitor of Venmo, Square, and even 
 
 The name was changed to Dash, which in a [video](https://www.dash.org/2021/02/03/ensuring-regulatory/) Dash Core Group CEO explains was a "portmanteau"of Digital and Cash.
 
-"Portmanteau" is word that is accesible to members of the cryptogaphy and tech world. It is not a term that would be easily understood by the general public. 
+"Portmanteau" is word that is accesible to members of the cryptogaphy and tech world. It is not a term that would be easily understood by the general public. Rather than explain this, *show* it as part of your brand.
 
-Dash should start now with a slight rebranding that will be able to bridge the transition from cryptocurrency to every day service. It needs to be something that can eventually be workable with a mass media roll out. Staying consistent is important.
+Dash should start now with a rebranding that will be able to bridge the transition from cryptocurrency to every day service. It needs to be something that can eventually be workable with a mass media roll out. Staying consistent is important.
 
 It could look something like this:
 
